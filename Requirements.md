@@ -1,5 +1,5 @@
 # book-club
-Projects idea is to create an repo for books, which registered users can like, rate and review.
+The idea of project is to create a repo for books, which registered users can like, rate and review.
 
 ## Domain objects
 #### Book
