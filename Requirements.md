@@ -30,7 +30,7 @@ The idea of project is to create a repo for books, which registered users can li
 
 ## Guidelines
 - Add new tasks to Project tab before working on them
-- Make commits small enough to understand easily. One commit specifies one small unit of work/functionlity
+- Make commits small enough to understand easily. One commit specifies one small unit of work/functionality
 - Always get your PR reviewed before merging to master
 - Write basic tests for the new functionality added
 - If you are implementing/integrating some new functionality/tool, link the helpful resources in PR comment
